@@ -15,8 +15,5 @@
         <marka>Renault</marka>
         <model>Clio</model>
     </auto>
-    <motor>
-        <marka>KTM</marka>
-        <model>DUKE390</model>
-    </motor>
+
 </automobili>
