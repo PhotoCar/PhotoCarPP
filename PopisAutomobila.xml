@@ -1,0 +1,18 @@
+<automobili>
+    <auto>
+        <marka>BMW</marka>
+        <model>Serija 3</model>
+    </auto>
+    <auto>
+        <marka>Mercedes</marka>
+        <model>S klasa</model>
+    </auto>
+    <auto>
+        <marka>Toyota</marka>
+        <model>Prius</model>
+    </auto>
+    <auto>
+        <marka>Renault</marka>
+        <model>Clio</model>
+    </auto>
+</automobili>
