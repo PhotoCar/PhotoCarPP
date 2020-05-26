@@ -18,5 +18,6 @@
     <detalji>
         <motor>dizel</motor>
         <snaga>123</snaga>
+		<potrosnja>5l</potrosnja>
     </detalji>
 </automobili>
