@@ -11,9 +11,6 @@
         <marka>Toyota</marka>
         <model>Prius</model>
     </auto>
-    <auto>
-        <marka>Renault</marka>
-        <model>Clio</model>
-    </auto>
+
 
 </automobili>
